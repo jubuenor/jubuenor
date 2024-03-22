@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Juan Andres Bueno</h1>
-<h3 align="center">A passionate frontend-backend developer from Colombia</h3>
+<h3 align="center"> Software Engineer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubuenor&label=Profile%20views&color=0e75b6&style=flat" alt="jubuenor" /> </p>
 
-- 🔭 I’m currently working on **E-commerce App 2.0**
+- 🔭 I’m currently working on **VelezReyes+**
 
-- 🌱 I’m currently learning **nextjs, docker & advanced algorithms**
+- 🌱 I’m currently learning **AWS, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://jubuenor.github.io/portfolio/](https://jubuenor.github.io/portfolio/)
 
-- 💬 Ask me about **react, nodejs**
+- 💬 Ask me about **React, Node**
 
 - 📫 How to reach me **jubuenor@unal.edu.co**
 
