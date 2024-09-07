@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubuenor&label=Profile%20views&color=0e75b6&style=flat" alt="jubuenor" /> </p>
 
-- 🔭 I’m currently working on **VelezReyes+**
+- 🔭 I’m currently working on **Globant**
 
-- 🌱 I’m currently learning **AWS, CI/CD**
+- 🌱 I’m currently learning **Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://jubuenor.github.io/portfolio/](https://jubuenor.github.io/portfolio/)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **jubuenor@unal.edu.co**
 
